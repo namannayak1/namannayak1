@@ -33,6 +33,7 @@
 - **[Expense Ease](#)**:Implemented dynamic expense entry with input validation, date selection, and category tagging. Added filters and search functionalities for efficient navigation and review of expense history.
 - **[Quizzy App](#)**:Implemented a scoring system to track user performance and progress, displaying detailed results at the end of each quiz session.
 - **[e-Gurukul](#)**: Created this Project during Smart India Hackathon which can increase rural education by 40%. A Flutter based student complaints portal that allows students and parents to submit complaints, categorizes and stores them in a database.
+- **[Padhai-philia](#)**: Creating this project for my self owned youtube channel in which i have more than 2k subscribers. Designing and creating a fully functional flutter based Application with all the educational related content.
 
 ## 📄 Working Experience
 
@@ -43,7 +44,8 @@
 ## 🎓 Education
 
 - **B.Tech**: Information Technology From JEC Jabalpur
-- **Class-12**: Maria mata convent sr. sec. school
+- **Class-12**: Maria Mata Convent Senior Secondary School (94% Percentage in PCM)
+- **Class-10**: Lucknow Public School (92% Percentage)
  
 ## 📈 Analytics
 
@@ -54,7 +56,7 @@
 
 
 </p>
-## 📱 Connect with me :
+📱 Connect with me :
  <a href="https://www.linkedin.com/in/naman-nayak-7208a0228/">
     <img src="https://img.shields.io/badge/LinkedIn-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
   </a>
