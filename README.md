@@ -9,7 +9,9 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="left"> <a href="https://twitter.com/naman__nayak" target="blank"><img src="https://img.shields.io/twitter/follow/naman__nayak?logo=twitter&style=for-the-badge" alt="coderbaba0" /></a> <a title="namannayak24@gmail.com" href="mailto:namannayak24@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="namannayak24@gmail.com" />
-    </a></p>
+    </a>   <a href="https://www.linkedin.com/in/naman-nayak-7208a0228/">
+    <img src="https://img.shields.io/badge/LinkedIn-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
+  </a></p>
 
 - 👋 Hi, I’m, a **Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for Android and IOS app Development** 
 - 🌱 I’m improving **System design and DSA**.
