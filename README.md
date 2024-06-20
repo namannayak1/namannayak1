@@ -39,7 +39,7 @@
 
 ## 📄 Working Experience
 
-- **Product Development Intern**:  (Jan 2024 - Present)
+- **Product Development Intern**:  (Jan 2024 - March 2024)
 - **App Developer**:  (Jul 2023 - Sep 2023)
 - **C++ Developer**:   (April 2023 - June 2023)
 
